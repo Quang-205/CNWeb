@@ -1,0 +1,1 @@
+Khi reload trang web, tại sao một số request trong tab Network có trạng thái “(from disk cache)” hoặc “(from memory cache)” và tải gần như tức thì, trong khi các request khác vẫn phải gửi lên server?

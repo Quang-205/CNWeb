@@ -1,0 +1,1 @@
+“Nếu PHP là dynamic, vậy tính đóng gói và kế thừa hoạt động khác Java như thế nào?”
