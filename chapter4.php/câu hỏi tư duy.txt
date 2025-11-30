@@ -1,0 +1,2 @@
+"Khi làm một trang web có form nhập dữ liệu (như tên sinh viên, email), tại sao chúng ta cần kiểm tra và lọc dữ liệu ở cả phía client (HTML5: required, type='email') và phía server (PHP)?
+Điều gì có thể xảy ra nếu bạn chỉ kiểm tra ở client nhưng bỏ qua kiểm tra ở server?"
