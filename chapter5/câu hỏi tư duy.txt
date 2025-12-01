@@ -1,0 +1,2 @@
+câu hỏi của tôi là: "Trong mô hình MVC, tại sao View không nên gọi trực tiếp hàm addSinhVien() hoặc getAllSinhVien() từ Model?
+ Theo bạn, điều gì sẽ xảy ra nếu View được phép thao tác trực tiếp với dữ liệu mà không thông qua Controller?"
