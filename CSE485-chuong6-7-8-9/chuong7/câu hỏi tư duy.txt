@@ -1,0 +1,1 @@
+Trong Laravel, tại sao Blade lại tách layout chung (header, footer, menu) ra thành một file riêng và các trang con chỉ kế thừa thông qua @extends? Cách làm này giúp việc bảo trì và mở rộng giao diện website thuận lợi hơn như thế nào so với việc viết HTML lặp lại trong từng trang?

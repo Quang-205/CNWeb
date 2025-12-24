@@ -1,0 +1,1 @@
+Authentication dùng để xác định danh tính người dùng, còn Authorization dùng để xác định quyền hạn của người dùng sau khi đã đăng nhập. Trong hệ thống quản lý sinh viên, chức năng đăng nhập là Authentication, còn việc chỉ cho phép Admin truy cập trang quản trị là Authorization.

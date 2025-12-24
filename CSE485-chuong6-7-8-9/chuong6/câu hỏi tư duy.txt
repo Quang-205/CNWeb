@@ -1,0 +1,1 @@
+Nếu trong tương lai trang “/” và trang “/about” cần hiển thị nội dung khác nhau (ví dụ: trang chủ có danh sách bài viết, còn trang about chỉ giới thiệu), thì có nên tiếp tục dùng chung một method showHomepage() hay nên tách thành các method riêng? Vì sao?

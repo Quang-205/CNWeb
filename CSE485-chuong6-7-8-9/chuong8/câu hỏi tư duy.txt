@@ -1,0 +1,1 @@
+So với việc sử dụng PDO và viết câu lệnh SQL thuần, Eloquent ORM mang lại những lợi ích gì trong quá trình phát triển ứng dụng Laravel Trong những trường hợp nào việc dùng Eloquent là phù hợp, và khi nào lập trình viên nên cân nhắc sử dụng SQL thuần để tối ưu hiệu năng
